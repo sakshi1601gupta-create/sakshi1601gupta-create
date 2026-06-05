@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sakshi 👋
 
-<!--
-**sakshi1601gupta-create/sakshi1601gupta-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Biotechnology Student
 
-Here are some ideas to get you started:
+🧬 Interested in:
+- Bioinformatics
+- Biotechnology
+- Data Analysis
+- Computational Biology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- Python
+- Bioinformatics Tools
+- Git & GitHub
+
+🌱 Goal:
+To build a career in bioinformatics and biotechnology research.
